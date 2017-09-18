@@ -244,3 +244,10 @@ section {
 }
 
 /*////////// FOOTER //////////*/
+footer {
+text-align: center
+font-size: 0.75em;
+color: #eee;
+border-top: 1px solid #ccc;
+padding: 10px;
+}
